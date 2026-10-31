@@ -77,4 +77,4 @@
   💬 Vamos conversar? Me chame no LinkedIn ou por e-mail!
 </p>
 
-<img src="assets/banner-github.png" alt="Java • Back-end | Engenharia de Software" width="100%"/>
+<img src="assets/newbanner-github.png" alt="Java • Back-end | Engenharia de Software" width="100%"/>
