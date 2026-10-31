@@ -1,57 +1,78 @@
-# Hi 👋, I'm Guilherme Padilha
+<h1 align="center">Olá, eu sou Guilherme Augusto Padilha 👋</h1>
 
-🚀 **Looking for a software development internship | Java developer |**  
-🇧🇷 Brazil
+<p align="center">
+  Estudante de Engenharia de Software (CEUNSP) • Desenvolvedor Back-end Java ☕<br>
+  Apaixonado por construir APIs, resolver problemas e escrever código limpo.
+</p>
 
-**I'm a student at CEUNSP College - SALTO. I study software engineering and I'm currently in the 2nd semester.**
-
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/GuiPadilhaxz">
-    <img src="https://img.shields.io/badge/GitHub-GUIPADILHAXZ-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-augusto-padilha/">
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-augusto-padilha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:guilhermeff.padilha@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
-## 🛠️ Tech Stack
 
-### Frontend
+## 🧑‍💻 Sobre mim
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+- 🎓 Cursando **Engenharia de Software** no **CEUNSP** (2º Semestre/previsão de formatura para 2030)
+- ☕ **Java** é minha linguagem principal e o back-end é onde eu mais gosto de atuar
+- 🗄️ Experiência com **bancos de dados** (nível básico/intermediário)
+- 🌐 Conhecimento básico de front-end e do protocolo HTTP
+- 🤖 Estudando e aplicando **Inteligência Artificial**
+- 🌎 Inglês: básico, em evolução (leio documentação técnica)
+- 🔎 **Buscando oportunidade de estágio/júnior em desenvolvimento back-end**
 
-### Backend
+---
 
-### DevOps & Tools
+## 🛠️ Tecnologias
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+**Principal**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring (basico)](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven(basico)](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+**Bancos de dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Outras linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Front-end (básico)**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Philosophy
+## 🎯 Foco atual
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+- Aprofundar em **Spring Boot**, **JPA/Hibernate** e arquitetura de APIs REST
+- Testes automatizados (**JUnit/Mockito**)
+- Melhorar meu inglês técnico
+- Construir projetos que resolvam problemas reais
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+<p align="center">
+  💬 Vamos conversar? Me chame no LinkedIn ou por e-mail!
+</p>
